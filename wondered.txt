@@ -1,0 +1,3 @@
+Question : 
+After deleted the z.txt and recover the right z.txt back by "git reset HEAD z.txt"
+Is there any way to commit? 7, March, 2023
